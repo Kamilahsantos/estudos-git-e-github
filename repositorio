@@ -1,1 +1,8 @@
 um repositório é um local onde armazenamos os conteudos dos nossos projetos e ele é controloda pelo sistema de versionamento git
+
+
+Para criar um repositorio voce pode:
+
+1 - direto pela interface do github
+
+2 - na sua maquina por meio do comando git init 
